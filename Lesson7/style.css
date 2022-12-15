@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    margin: 20px;
+    padding: 5%;
+    font-family: Roboto;
+}
+h1{
+    color: brown;
+    background-color: aliceblue;
+}
+p{
+    color: blue;
+}
+ul{
+    font-style: italic;
+    font-size: 25px;
+}
+#italic{
+    color: aqua;
+    padding: 4em;
+    font-size: 30px;
+}
