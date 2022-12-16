@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    margin: 20px;
+  
     padding: 5%;
     font-family: Roboto;
 }
@@ -19,4 +19,13 @@ ul{
     color: aqua;
     padding: 4em;
     font-size: 30px;
+}
+#contain{
+    color: azure;
+    background-color: cadetblue;
+    font-family: monospace;
+    font-size: 25px;
+}
+#contain em{
+    color: red;
 }

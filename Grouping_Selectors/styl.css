@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    padding: 0 0 10px;
+
+}
+#main-container, #main-container p{
+    background-color: blanchedalmond;
+    font-size: 25px;
+
+}
+#list {
+    color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+}
